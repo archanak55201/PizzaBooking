@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css?family=Ruda');
+@import url('https://fonts.googleapis.com/css?family=Quattrocento');
+
+
+.gall{
+    
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+body{
+    margin-inline: auto;
+    background-color: black;
+}
+header{
+  position: fixed;
+    width: 100vw;
+}
+.logo:hover{
+    color:white;
+   
+}
+.nav-link {
+    color:white;
+}
+.nav-link:hover{
+    color:aquamarine;
+}
+.navbar-brand{
+    color:white;
+}
+.social>i{
+    margin-right: 35px;
+    font-size: 25px;
+}
+
+.hero{
+   
+    background-image: url("images/pizza1.svg");
+    width: 100vw;
+    
+    background-size: auto;
+
+    padding: 30px;
+    
+   
+}
+.hero-content{
+
+  margin-top: 20px;
+    padding:25px;
+    font-size: 101px;
+    text-align: center;
+    font-family: Quattrocento;
+    letter-spacing: 7px;
+    font-weight: 700;
+}
+.hero-content-2{
+    padding: 30px;
+    padding-left: 8%;
+   
+   padding-top: 50px;
+    justify-content: center;
+}
+.line{
+    margin-left: 3%;
+    background-color: #F24C4C;
+    box-shadow: 3px 6px blur;
+    height: 10px;
+    width: 60%;
+}
+
+.hero-content-3{
+    color: #FFFFFF;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding: 10px;
+    font-size: 170%;
+    line-height: 150%;
+    letter-spacing: 5%;
+    width: 500px;
+    font-family: Ruda;
+}
+.about{
+    padding-top: 6%;
+    
+}
+.head{
+    color: white;
+    font-size: 60px;
+    font-weight: 400;
+    font-family: Quattrocento;
+    
+    text-align: center;
+}
+.about-line{
+    margin-left: 30%;
+    width: 526px;
+   
+    height: 10px;
+    background-color: #B62828;
+
+
+}
+
+.about-content{
+    display: flex;
+  flex-wrap: wrap;
+   
+    padding: 5%;
+    justify-content: space-between;
+}
+
+.dough-content{
+    padding: 1%;
+    flex:50%;
+}
+.about-content-line{
+    margin-left:1%;
+    width: 535px;
+   
+    height: 4px;
+    background-color: #B62828;
+
+
+}
+.inside-about{
+    font-family: Ruda;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.09em;
+    text-align: left;
+    color:white;
+    padding-top: 3%;
+
+}
+.menu-caption{
+    color: white;
+    text-align: center;
+    font-family: Ruda;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.09em;
+    text-align: left;
+    padding-top: 4%;
+    padding-left: 13%;
+    padding-right: 13%;
+
+
+}
+
+.menu-image-content{
+    display: flex;
+    margin: 1%;
+    padding: 5%;
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+.menu-head{
+    font-family: Ruda;
+font-size: 28px;
+font-weight: 400;
+letter-spacing: 0em;
+    padding-left:30px;
+color:#F2C94C;
+
+}
+.menu-content-1{
+    font-family: Ruda;
+font-size: 20px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0.09em;
+text-align: left;
+padding: 30px;
+
+}
+.pizza-img{
+    padding: 5px;
+}
+.pizza-content{
+    padding: 5px;
+}
+
+.carousel{
+    margin-inline: auto;
+    padding: auto;
+}
+.carousel-content{
+    width: 100vw;
+    align-items: center;
+   
+}
+.carousel-inner{
+    
+    border-radius: 10px;
+
+}
+.gallery-content{
+    padding: 20px;
+    margin-inline: auto;
+}
+.find-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 30px;
+    padding: 30px;
+    
+    color:white;
+}
+.find-content-1{
+    font-family: Ruda;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.09em;
+    text-align: left;
+    margin: 10px;
+    padding: 30px;
+
+}
+
+.find-content-2{
+    font-family: Ruda;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.09em;
+    text-align: left;
+    margin: 10px;
+    padding-left: 30px;
+
+}
+.foot{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding-left: 60px;
+    justify-content: space-between;
+}
+a:visited{
+    color:white;
+}
+
+
